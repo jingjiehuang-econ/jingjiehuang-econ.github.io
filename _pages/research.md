@@ -1,6 +1,7 @@
 ---
 title: "Research"
 permalink: /research/
+layout: full-width
 ---
 
 ### Working Papers
