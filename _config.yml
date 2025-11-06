@@ -25,11 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Jingjie Huang"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
   employer         : "UNC - Chapel Hill"
-  uri              : # URL
   email            : "jht2c@live.unc.edu" 
 
   # Academic websites
