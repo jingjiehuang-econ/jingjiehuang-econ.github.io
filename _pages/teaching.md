@@ -53,6 +53,6 @@ permalink: /teaching/
 </div>
 <div style="display: flex; justify-content: space-between;">
   <div>ECON 522: Macroeconomic Analysis of the Labor Market</div>
-  <div>Spring 2021 &amp; Spring 2022</div>
+  <div>Spring 2022 &amp; Spring 2024</div>
 </div>
 
