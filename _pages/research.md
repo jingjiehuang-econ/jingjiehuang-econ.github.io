@@ -2,7 +2,6 @@
 title: "Research"
 permalink: /research/
 ---
-<div style="max-width: 850px; margin: auto;">
   
 ### Working Papers
 
