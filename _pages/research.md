@@ -6,15 +6,30 @@ permalink: /research/
 ### Working Papers
 
 
-**Time-Varying Risk Bearing Capacity, Safe Asset Demand and Dollar Exchange Rate** 
+## Time-Varying Risk Bearing Capacity, Safe Asset Demand and Dollar Exchange Rate
+
 (Job Market Paper)
+<style>
+.wide-abstract-fallback {
+  display: block;
+  margin-left: 10%;
+  margin-right: 10%;
+  max-width: 1000px;
+  padding: 0 10px;
+  box-sizing: border-box;
+}
+</style>
+
+<div class="wide-abstract-fallback">
+U.S. Treasury bonds are widely regarded as the most liquid and safe assets, providing investors with a convenience yield that makes their unique role in international financial markets. While previous research typically treat safe asset demand as exogenous, this paper proposes an intermediary-based model featuring endogenous safe asset demand and microfounded convenience yield to study dollar exchange rate movement and the dynamics of the U.S. external balance sheet within a unified framework. In the model, financial intermediaries are subject to time-varying leverage constraints which limit their ability to raise funds. During global recessions, flight-to-safety generates an increasing demand of Treasury bonds, raising their convenience yields and leading to dollar appreciation. Under the safe asset view, the seigniorage revenues from issuing Treasury bonds that carry higher convenience yield generate positive net investment income, allowing U.S. consumption shares to rise during global recessions, despite it suffering portfolio losses from external positions. The model can also jointly explain the large and persistent CIP deviations due to the tightening of bank regulations after the GFC.
+</div>
 
 Abstract: U.S. Treasury bonds are widely regarded as the most liquid and safe assets, providing investors with a convenience yield that makes their unique role in international financial markets. While previous research typically treat safe asset demand as exogenous, this paper proposes an intermediary-based model featuring endogenous safe asset demand and microfounded convenience yield to study dollar exchange rate movement and the dynamics of the U.S. external balance sheet within a unified framework. In the model, financial intermediaries are subject to time-varying leverage constraints which limit their ability to raise funds. During global recessions, flight-to-safety generates an increasing demand of Treasury bonds, raising their convenience yields and leading to dollar appreciation. Under the safe asset view, the seigniorage revenues from issuing Treasury bonds that carry higher convenience yield generate positive net investment income, allowing U.S. consumption shares to rise during global recessions, despite it suffering portfolio losses from external positions. The model can also jointly explain the large and persistent CIP deviations due to the tightening of bank regulations after the GFC
 
-**Intermedairy Constraints and Currency Risk Premia** 
+## Intermedairy Constraints and Currency Risk Premia 
 
 Abstract: This paper investigates the role of financial intermediary constraints in pricing the cross sectional currency returns. I construct a novel index that captures the risk-bearing capacity of FX intermediaries by combining both micro-level measures and aggregate market indicators. The results show that intermediary constraint is a priced risk factor in explaining variation in currency excess returns. A comparison of risk factors further demonstrates that my index captures a more comprehensive dimension of intermediary constraints that are not fully covered by the existing measures. Moreover, currency portfolios of external debtor countries are more exposed to intermediary risk, earning higher risk premia since they tend to perform poorly during periods of tightening financial constraints. In contrast, currencies of creditor countries offer lower average returns due to their role as a hedge, appreciating when intermediary risk-bearing capacity deteriorates. The impact of intermediary constraint on exchange rate is more pronounced for currencies of emerging markets, and during Global Financial Crisis periods. 
 
-**Currency Risk, Carry Trade and Commodity Trade: A Tale of Three Countries**
+## Currency Risk, Carry Trade and Commodity Trade: A Tale of Three Countries
 
 Abstract: Countries differ dramatically in their risk-free interest rates, and these differences appear to be highly persistent such that they account for much of the currency carry trade risk premium. Technology difference on the production side of the economy is a potential source to generate heterogeneity exposure to global sources of risk. I construct a multi-country model of international trade and currency pricing. Commodity country is insulated from global productivity shocks due to trading costs and domestic production of final goods. Producer countries end up with absorbing more risk which gives rise to higher consumption volatilities. The difference in exposure to global shocks leads to stronger precautionary saving demand for producer countries, pushing down the risk-free interest rates. In the meantime, commodity country currency tends to depreciate during good times and appreciate during bad times. It is a risky investment and consequently earns a risk premium. Carry trade risk premium increases in the degree of specialization which is captured by the relative productivities. As the number of countries increases, the order of magnitude of carry trade risk premium decreases as a result of better risk sharing. 
