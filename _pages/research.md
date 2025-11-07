@@ -6,7 +6,7 @@ classes: wide-page
   
 ## Working Papers
 
-### [Time-Varying Risk Bearing Capacity, Safe Asset Demand and Dollar Exchange Rate](assets/JMP_Jingjie_Huang.pdf)
+### [Time-Varying Risk Bearing Capacity, Safe Asset Demand and Dollar Exchange Rate](/assets/JMP_Jingjie_Huang.pdf)
 
 (Job Market Paper)
 
