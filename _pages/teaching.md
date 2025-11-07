@@ -3,8 +3,6 @@ title: "Teaching"
 permalink: /teaching/
 ---
 
-# Teaching
-
 
 ## Course Instructor  
 ECON 101: Introduction to Economics&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Summer 2023<br>
