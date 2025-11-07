@@ -4,10 +4,9 @@ permalink: /research/
 classes: wide-page
 ---
   
-### Working Papers
+## Working Papers
 
-
-## Time-Varying Risk Bearing Capacity, Safe Asset Demand and Dollar Exchange Rate
+## Time-Varying Risk Bearing Capacity, Safe Asset Demand and Dollar Exchange Rate (Job Market Paper)
 
 U.S. Treasury bonds are widely regarded as the most liquid and safe assets, providing investors with a convenience yield that makes their unique role in international financial markets. While previous research typically treat safe asset demand as exogenous, this paper proposes an intermediary-based model featuring endogenous safe asset demand and microfounded convenience yield to study dollar exchange rate movement and the dynamics of the U.S. external balance sheet within a unified framework. In the model, financial intermediaries are subject to time-varying leverage constraints which limit their ability to raise funds. During global recessions, flight-to-safety generates an increasing demand of Treasury bonds, raising their convenience yields and leading to dollar appreciation. Under the safe asset view, the seigniorage revenues from issuing Treasury bonds that carry higher convenience yield generate positive net investment income, allowing U.S. consumption shares to rise during global recessions, despite it suffering portfolio losses from external positions. The model can also jointly explain the large and persistent CIP deviations due to the tightening of bank regulations after the GFC.
 
