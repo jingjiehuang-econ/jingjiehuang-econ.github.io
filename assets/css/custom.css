@@ -1,38 +1,29 @@
-/* ==============================
-   Research page full-width styles
-   ============================== */
-
-/* Stretch site-main container for Research page only */
-body.wide-page .site-main {
-    max-width: 100% !important;     /* remove theme width limit */
-    width: 100% !important;
-    padding-left: 30px !important;  /* small margins */
-    padding-right: 30px !important;
+/* Stretch the main content column for Research page */
+body.wide-page .site-main .container .row .col.content {
+    width: 95% !important;          /* increase width */
+    max-width: 95% !important;      /* ensure it stretches */
+    margin: 0 auto !important;      /* center content */
+    padding-left: 20px !important;  /* small side spacing */
+    padding-right: 20px !important;
+    box-sizing: border-box;
 }
 
-/* Container inside site-main */
-body.wide-page .site-main .container {
+/* Optional: slightly wider headings and paragraphs */
+body.wide-page .col.content h1,
+body.wide-page .col.content h2,
+body.wide-page .col.content h3,
+body.wide-page .col.content p {
     max-width: 100% !important;
-    width: 100% !important;
+}
+
+/* Optional: remove extra padding/margins from container */
+body.wide-page .site-main .container {
     padding-left: 0 !important;
     padding-right: 0 !important;
 }
 
-/* Row and column inside container */
-body.wide-page .site-main .row {
+/* Optional: remove row margins */
+body.wide-page .site-main .container .row {
     margin-left: 0 !important;
     margin-right: 0 !important;
-}
-
-body.wide-page .site-main .col {
-    width: 100% !important;
-    max-width: 100% !important;
-}
-
-/* Optional: make headings and paragraphs a bit wider */
-body.wide-page h1, 
-body.wide-page h2, 
-body.wide-page h3, 
-body.wide-page p {
-    max-width: 95% !important;
 }
