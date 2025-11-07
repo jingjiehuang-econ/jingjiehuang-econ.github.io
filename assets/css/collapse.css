@@ -1,27 +1,31 @@
-/* Remove default page spacing */
 html, body {
     margin: 0;
     padding: 0;
     width: 100%;
 }
 
-/* Make all wrapping elements full width */
-body > * {
-    width: 100% !important;
-    max-width: 100% !important;
-    padding: 0 !important;
-    margin: 0 !important;
-}
-
-/* Your container */
+/* Force common theme wrappers to full width */
+.wrapper,
+.main-content,
+.site-content,
+.page-wrapper,
+.content-wrapper,
+#content,
 .container {
+    max-width: 100% !important;   /* remove any width limit */
     width: 100% !important;
-    max-width: 100% !important;
-    border: 1px solid #d3d3d3;
+    padding-left: 10px !important;   /* optional small padding */
+    padding-right: 10px !important;
+    margin: 0 auto !important;
     box-sizing: border-box;
 }
 
-/* Inner divs fill the container */
+/* Your container styles */
+.container {
+    border: 1px solid #d3d3d3;
+}
+
+/* Inner divs fill container */
 .container div {
     width: 100% !important;
     box-sizing: border-box;
