@@ -27,3 +27,42 @@ body.wide-page .site-main .container .row {
     margin-left: 0 !important;
     margin-right: 0 !important;
 }
+/* =========================
+   Wider Research Page Content
+   ========================= */
+
+/* Main content wider on desktop */
+@media (min-width: 992px) {
+  body.wide-page aside.sidebar {
+      width: 20% !important;        /* fixed sidebar width */
+      float: left;
+  }
+
+  body.wide-page .site-main {
+      width: 78% !important;        /* main content takes most space */
+      max-width: 78% !important;
+      float: right;
+      padding-left: 20px;
+      padding-right: 20px;
+      box-sizing: border-box;
+  }
+}
+
+/* Make headings and paragraphs fill main content width */
+body.wide-page .col.content h1,
+body.wide-page .col.content h2,
+body.wide-page .col.content h3,
+body.wide-page .col.content p {
+    max-width: 100% !important;
+}
+
+/* On smaller screens, keep default stacking */
+@media (max-width: 991px) {
+  body.wide-page aside.sidebar,
+  body.wide-page .site-main {
+      width: 100% !important;
+      float: none;
+      padding-left: 15px;
+      padding-right: 15px;
+  }
+}
