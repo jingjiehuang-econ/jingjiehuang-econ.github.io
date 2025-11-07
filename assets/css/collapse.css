@@ -46,3 +46,18 @@ html, body {
     width: 100% !important;
     box-sizing: border-box;
 }
+
+/* Make Research page wider */
+body.wide-page .site-main .container {
+    max-width: 1200px;   /* increase width, default is ~840px */
+    width: 100%;
+    padding-left: 20px;  /* optional: reduce side padding */
+    padding-right: 20px;
+    box-sizing: border-box;
+}
+
+/* Optional: reduce extra margins for content */
+body.wide-page .site-main {
+    padding-left: 10px;
+    padding-right: 10px;
+}
