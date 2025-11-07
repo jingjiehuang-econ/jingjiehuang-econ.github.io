@@ -49,7 +49,7 @@ permalink: /teaching/
 </div>
 <div style="display: flex; justify-content: space-between;">
   <div>ECON 520: Advanced Macroeconomic Theory</div>
-  <div>Fall 2020 &amp; Spring 2022</div>
+  <div>Fall 2020 &amp; Fall 2021</div>
 </div>
 <div style="display: flex; justify-content: space-between;">
   <div>ECON 522: Macroeconomic Analysis of the Labor Market</div>
